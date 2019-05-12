@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(173): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(181): warning C4305: “参数”: 从“double”到“float”截断
+D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  3D_Engine_try7.vcxproj -> D:\codehub\3D_Engine\3D_Engine_try7\Debug\3D_Engine_try7.exe
