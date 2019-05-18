@@ -1,5 +1,27 @@
 ﻿  main.cpp
-D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(173): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(181): warning C4305: “参数”: 从“double”到“float”截断
-D:\codehub\3D_Engine\3D_Engine_try7\3D_Engine_try7\main.cpp(215): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(258): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(258): warning C4305: “参数”: 从“double”到“float”截断
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(282): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(341): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(401): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(402): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(456): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(457): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(458): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(479): warning C4244: “初始化”: 从“const double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(530): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(533): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(534): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(578): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(581): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(582): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(621): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(624): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(625): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(663): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(666): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(667): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(729): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(731): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+d:\codehub\3d_engine\3d_engine_try7\3d_engine_try7\main.cpp(855): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   3D_Engine_try7.vcxproj -> D:\codehub\3D_Engine\3D_Engine_try7\Debug\3D_Engine_try7.exe
